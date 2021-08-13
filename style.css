@@ -1,0 +1,51 @@
+* {
+	text-decoration: none;
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+	text-align: center;
+	font-family: comic sans ms;
+	color: #364f6b;
+}
+
+marquee {
+	color: #ffffff;
+	font-family: comic sans ms;
+}
+
+.tabel {
+	padding: 30px;
+}
+
+.ml {
+	font-family: comic sans ms;
+	padding: 50px;
+	color: #364f6b;
+}
+
+.freefire {
+	font-family: comic sans ms;
+	color: #364f6b;
+	padding: 50px;
+}
+
+.pubgm {
+	font-family: comic sans ms;
+	color: #364f6b;
+	padding: 50px;
+}
+
+.sosis {
+	font-family: comic sans ms;
+	color: #364f6b;
+	padding: 50px;
+}
+
+.copyright {
+	font-family: comic sans ms;
+	color: #364f6b;
+	padding: 50px;
+	text-align: center;
+}
